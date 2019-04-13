@@ -46,3 +46,6 @@ CTestTestfile.cmake
 *.exe
 *.out
 *.app
+
+# ide
+.vscode/

@@ -5,3 +5,8 @@ This is realization of examples and exercises from The Algorithm Design Manual b
 ## Includes
 * list
 * bintree
+
+## Build & execute
+`
+cmake CMakeLists.txt && make && ./main
+`

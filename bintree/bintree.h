@@ -7,5 +7,6 @@ typedef struct bintree {
 } bintree;
 
 bintree *search_bintree(bintree *l, int x);
-
+bintree *find_minimum(bintree *l);
 void insert_bintree(bintree **l, int x, bintree *parent);
+void delete_bintree(int x, bintree *parent);
